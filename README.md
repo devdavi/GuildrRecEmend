@@ -7,8 +7,8 @@ This addon project is free to use and modify, go ham! I started working on this 
 
 #### Change Log
 **2020.12.15:**
-    Initial Commit
-    Added Readme.md
+- Initial Commit
+- Added Readme.md
 
 ---
 ## Original Description v3.4 - 2018
@@ -19,12 +19,12 @@ Please respect server and the people playing on it. Set your announce interval a
 Be careful, if you abuse server channels BLIZZARD COULD SUSPEND/BAN YOUR ACCOUNT. Use at your own risk.
 
 **Features**
-    Multiline message support.
-    Simple configuration interface
-    Basic SPAM protection and throttling
-    Guild cooperation mode, addon can be used by several guild members at once
-    DND mode support
-    LibDataBroker support 
+- Multiline message support.
+- Simple configuration interface
+- Basic SPAM protection and throttling
+- Guild cooperation mode, addon can be used by several guild members at once
+- DND mode support
+- LibDataBroker support 
 
 To configure type: /guildrecr /grec or /gr to open configuration interface. Or use Interface->Addons configuration interface.
 
